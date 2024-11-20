@@ -33,7 +33,7 @@ There are two ways of running the YOLO model on Jetson Nano (My suggestion is th
 
  You can either use `ultralytics` package or you can manually deploy the model on Jetson Nano.
 
- To use `ultralytics`, you can run the model inside the docker container provided in https://docs.ultralytics.com/guides/nvidia-jetson/#flash-jetpack-to-nvidia-jetson
+ To use `ultralytics`, you can run the model inside the docker container provided at https://docs.ultralytics.com/guides/nvidia-jetson/#flash-jetpack-to-nvidia-jetson
 
 It shows all the steps for the model deployment. 
 

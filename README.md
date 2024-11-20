@@ -37,6 +37,8 @@ There are two ways of runnig the YOLO model on Jetson Nano (My suggestion is the
 
 It shows all the steps for the model deployment. 
 
+Inside the docker, you can run the 
+
 To run the model outside the docker, you need to export it to `.onnx` format first. To do this run
 
 `python3 model_export.py`

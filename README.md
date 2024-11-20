@@ -24,12 +24,12 @@ Since `ultralytics` does not accept the `.png` format for the labels, you need t
  
  `python3 test.py`
 
- The `test.py` file and the `best.py` model should be in the same directory. 
+ The `test.py` file and the `best.pt` model should be in the same directory. 
  Also, change the image address in the code.
 
 
  # Deployment on Jetson Nano
-There are two ways of runnig the YOLO model on Jetson Nano (My suggestion is the first way)
+There are two ways of running the YOLO model on Jetson Nano (My suggestion is the first way)
 
  You can either use `ultralytics` package or you can manually deploy the model on Jetson Nano.
 

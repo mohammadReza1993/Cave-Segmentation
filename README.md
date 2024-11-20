@@ -50,6 +50,7 @@ Since you are not using `ultralytics`, you need to take care of outputs. I added
 `python3 latency.py path_to_trt_model`
 
 This is just a sample code to run the model on Jetson Nano. It does not use actual images. Instead, it uses random inputs. You can change it with actual images. 
+There is also the `lightweight_dataframes.py` file that is used to creat a `.csv` file containing the statistics for the model performance. 
 
 
  

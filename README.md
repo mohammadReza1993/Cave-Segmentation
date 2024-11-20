@@ -49,7 +49,7 @@ Since you are not using `ultralytics`, you need to take care of outputs. I added
 
 `python3 latency.py path_to_trt_model`
 
-This is just a sample code to run the model on Jetson Nano. It does not use actual images. Instead, it uses random inputs. You can change that with actual images. 
+This is just a sample code to run the model on Jetson Nano. It does not use actual images. Instead, it uses random inputs. You can change it with actual images. 
 
 
  

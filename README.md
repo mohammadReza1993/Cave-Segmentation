@@ -1,7 +1,7 @@
 # Cave-Segmentation
 This is repository for underwater cave segmentation 
 
-# Traning
+# Training
 
 
 to train the YOLO model you need to run the train.py file

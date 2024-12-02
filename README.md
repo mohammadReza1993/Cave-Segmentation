@@ -1,5 +1,5 @@
 # Cave-Segmentation
-This is repository for underwater cave segmentation 
+This is the repository for underwater cave segmentation 
 
 # Training
 

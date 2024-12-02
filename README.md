@@ -8,7 +8,7 @@ To train the YOLO model you need to run the train.py file
 
 `python3 train.py`
 
-The `config.yaml` file should be in the same directory as the `train.py` file. Please change the path in the `config.yaml` based on you data address. You need to create two directories, `images` and `labels`. Inside each directory, you need to create to directories, `train` and `val`. Move the coresponding images and lables inside each directories. 
+The `config.yaml` file should be in the same directory as the `train.py` file. Please change the path in the `config.yaml` based on your data address. You need to create two directories, `images` and `labels`. Inside each directory, you need to create to directories, `train` and `val`. Move the corresponding images and labels inside each directory. 
 
 Since `ultralytics` does not accept the `.png` format for the labels, you need to change the format of the labels according to `ultralytics` requirements.
 
